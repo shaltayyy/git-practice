@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(int argc, char** argv) {
- printf("Start!");
+ printf("Main version!");
  return 0;
 }
